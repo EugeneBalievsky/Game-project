@@ -1,2 +1,19 @@
 ﻿  main.cpp
-  Figures.vcxproj -> C:\Users\TS\source\repos\game\Figures\x64\Debug\Figures.exe
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(55,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(55,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(55,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(55,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(57,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(57,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(57,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(57,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(68,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(68,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(68,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(68,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(80,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(80,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(80,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(80,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Game-project-main\Figures\main.cpp(117,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Figures.vcxproj -> C:\Users\EVGENE\source\repos\Game-project-main\x64\Debug\Figures.exe
